@@ -1,0 +1,16 @@
+# .NET specific
+*.dll
+*.exe
+*.pdb
+*.suo
+*.cache
+*.log
+*.vscode
+*.vs
+*/bin
+*/obj
+project.lock.json
+project.fragment.lock.json
+*.user
+*.bak
+*.swp
